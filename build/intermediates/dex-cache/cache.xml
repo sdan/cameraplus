@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/dcb948b2da4e242c1be57876387417e95a811146/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52123a7dc9a3b78b9de7d052783b7acc5b7f254c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/4dd3304fe115355f6d7eed3eb14ca883fc336a25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3b9e9901bbe52af9f050a20fda7905fabed6137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/3769809689bc168625f65b85b8bfa2ed5eb06980/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0eb48a5c7e75013f979649e5a329f19f999fce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/92cacdd962e2a0c0584c83f77c66fd85dac2185e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0e452f470223eb3a3f99c6e7eae8a6225c1b670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a5ea66cdb0ce0e40ede8375d0226bfab84c4e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/dcde1a52790a3ad35d3c62db585dd20eaecbc2f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1866d085e5c7c4370dbaf6bf922ac5605002a0da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/f4bb9bad7da73c18b9b32bf87b2ef23640f94685/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09b44b13f56e1c0b6815bf245ba2b44966233e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ce9282a373ad9e4dcd44f9fa84330acaec85752">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_506ab422c1186878757f7b3adc12f07310f31607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/4198f89aa527887ff77e45e863f333cdb969a1c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f137490cad3f9024c8d75d026705ae847f730d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/60534777c4160fed0c90050db4e89394fd597b48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_797bcce4e12f50744d6bea6a5f5bb903014ea52a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/4bfb1837fae469f814ae828108a4e8a03f8ea9c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab04cf43410493055cc11f2b77beacdc5f0cbf36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surya/.android/build-cache/ffcd2d9c766fadc5f101be824c2cf67c7f9f0f17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/surya/Desktop/Coding/whatbin/demo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7a74e4fdd305337526ee46b7b0b01d2af7c98ef/classes.dex" />
+    </item>
+
+</items>
